@@ -1,0 +1,306 @@
+[
+    {
+        "name": "Nike Air Zoom Pegasus",
+        "brand": "Nike",
+        "category": "Footwear",
+        "sub_category": "Running",
+        "gender": "Unisex",
+        "size": [
+            "7",
+            "8",
+            "9",
+            "10",
+            "11"
+        ],
+        "price": 120.00,
+        "discount": 10,
+        "final_price": 108.00,
+        "stock": 50,
+        "rating": 4.8,
+        "description": "Responsive running shoes for daily training.",
+        "color": "Black",
+        "tags": [
+            "running",
+            "training"
+        ],
+        "images": [
+            "pegasus1.jpg",
+            "pegasus2.jpg"
+        ],
+        "release_date": "2025-01-10",
+        "is_active": true
+    },
+    {
+        "name": "Nike Revolution 6",
+        "brand": "Nike",
+        "category": "Footwear",
+        "sub_category": "Running",
+        "gender": "Male",
+        "size": [
+            "8",
+            "9",
+            "10",
+            "11"
+        ],
+        "price": 80.00,
+        "discount": 5,
+        "final_price": 76.00,
+        "stock": 40,
+        "rating": 4.5,
+        "description": "Lightweight running shoes for comfort and speed.",
+        "color": "Blue",
+        "tags": [
+            "running",
+            "lightweight"
+        ],
+        "images": [
+            "revolution6-1.jpg",
+            "revolution6-2.jpg"
+        ],
+        "release_date": "2025-02-15",
+        "is_active": true
+    },
+    {
+        "name": "Nike Court Vision Low",
+        "brand": "Nike",
+        "category": "Footwear",
+        "sub_category": "Sneakers",
+        "gender": "Female",
+        "size": [
+            "6",
+            "7",
+            "8",
+            "9"
+        ],
+        "price": 75.00,
+        "discount": 0,
+        "final_price": 75.00,
+        "stock": 60,
+        "rating": 4.3,
+        "description": "Classic sneakers for everyday style.",
+        "color": "White",
+        "tags": [
+            "casual",
+            "classic"
+        ],
+        "images": [
+            "courtvision1.jpg",
+            "courtvision2.jpg"
+        ],
+        "release_date": "2025-03-20",
+        "is_active": true
+    },
+    {
+        "name": "Nike Air Max 270",
+        "brand": "Nike",
+        "category": "Footwear",
+        "sub_category": "Sneakers",
+        "gender": "Unisex",
+        "size": [
+            "7",
+            "8",
+            "9",
+            "10",
+            "11"
+        ],
+        "price": 150.00,
+        "discount": 15,
+        "final_price": 127.50,
+        "stock": 35,
+        "rating": 4.9,
+        "description": "Iconic Air Max cushioning for all-day comfort.",
+        "color": "Red",
+        "tags": [
+            "airmax",
+            "comfort"
+        ],
+        "images": [
+            "airmax270-1.jpg",
+            "airmax270-2.jpg"
+        ],
+        "release_date": "2025-04-05",
+        "is_active": true
+    },
+    {
+        "name": "Nike Blazer Mid '77",
+        "brand": "Nike",
+        "category": "Footwear",
+        "sub_category": "Sneakers",
+        "gender": "Unisex",
+        "size": [
+            "7",
+            "8",
+            "9",
+            "10"
+        ],
+        "price": 110.00,
+        "discount": 10,
+        "final_price": 99.00,
+        "stock": 45,
+        "rating": 4.6,
+        "description": "Retro-inspired sneakers for a vintage look.",
+        "color": "White",
+        "tags": [
+            "retro",
+            "vintage"
+        ],
+        "images": [
+            "blazer1.jpg",
+            "blazer2.jpg"
+        ],
+        "release_date": "2025-05-12",
+        "is_active": true
+    },
+    {
+        "name": "Nike Air Force 1",
+        "brand": "Nike",
+        "category": "Footwear",
+        "sub_category": "Sneakers",
+        "gender": "Male",
+        "size": [
+            "8",
+            "9",
+            "10",
+            "11"
+        ],
+        "price": 100.00,
+        "discount": 5,
+        "final_price": 95.00,
+        "stock": 55,
+        "rating": 4.7,
+        "description": "Legendary style and comfort for everyday wear.",
+        "color": "Black",
+        "tags": [
+            "classic",
+            "street"
+        ],
+        "images": [
+            "airforce1-1.jpg",
+            "airforce1-2.jpg"
+        ],
+        "release_date": "2025-06-18",
+        "is_active": true
+    },
+    {
+        "name": "Nike Flex Experience Run 11",
+        "brand": "Nike",
+        "category": "Footwear",
+        "sub_category": "Running",
+        "gender": "Female",
+        "size": [
+            "6",
+            "7",
+            "8",
+            "9"
+        ],
+        "price": 70.00,
+        "discount": 0,
+        "final_price": 70.00,
+        "stock": 65,
+        "rating": 4.2,
+        "description": "Flexible and lightweight running shoes.",
+        "color": "Pink",
+        "tags": [
+            "running",
+            "flexible"
+        ],
+        "images": [
+            "flexrun11-1.jpg",
+            "flexrun11-2.jpg"
+        ],
+        "release_date": "2025-07-22",
+        "is_active": true
+    },
+    {
+        "name": "Nike Downshifter 12",
+        "brand": "Nike",
+        "category": "Footwear",
+        "sub_category": "Running",
+        "gender": "Unisex",
+        "size": [
+            "7",
+            "8",
+            "9",
+            "10",
+            "11"
+        ],
+        "price": 65.00,
+        "discount": 5,
+        "final_price": 61.75,
+        "stock": 70,
+        "rating": 4.1,
+        "description": "Breathable running shoes for daily workouts.",
+        "color": "Grey",
+        "tags": [
+            "running",
+            "breathable"
+        ],
+        "images": [
+            "downshifter12-1.jpg",
+            "downshifter12-2.jpg"
+        ],
+        "release_date": "2025-08-15",
+        "is_active": true
+    },
+    {
+        "name": "Nike React Infinity Run Flyknit",
+        "brand": "Nike",
+        "category": "Footwear",
+        "sub_category": "Running",
+        "gender": "Unisex",
+        "size": [
+            "7",
+            "8",
+            "9",
+            "10",
+            "11"
+        ],
+        "price": 160.00,
+        "discount": 20,
+        "final_price": 128.00,
+        "stock": 30,
+        "rating": 4.9,
+        "description": "Maximum cushioning for long-distance runs.",
+        "color": "Green",
+        "tags": [
+            "running",
+            "cushioning"
+        ],
+        "images": [
+            "reactinfinity1.jpg",
+            "reactinfinity2.jpg"
+        ],
+        "release_date": "2025-09-10",
+        "is_active": true
+    },
+    {
+        "name": "Nike SB Dunk Low",
+        "brand": "Nike",
+        "category": "Footwear",
+        "sub_category": "Sneakers",
+        "gender": "Unisex",
+        "size": [
+            "7",
+            "8",
+            "9",
+            "10"
+        ],
+        "price": 110.00,
+        "discount": 0,
+        "final_price": 110.00,
+        "stock": 25,
+        "rating": 4.8,
+        "description": "Skateboarding shoes with classic style.",
+        "color": "Multi",
+        "tags": [
+            "skate",
+            "classic"
+        ],
+        "images": [
+            "sbdunk1.jpg",
+            "sbdunk2.jpg"
+        ],
+        "release_date": "2025-10-05",
+        "is_active": true
+    }
+]

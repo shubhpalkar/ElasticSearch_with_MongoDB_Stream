@@ -1,0 +1,27 @@
+{
+  "name": "express-elasticsearch-poc",
+  "version": "1.0.0",
+  "description": "express-elastic-poc",
+  "main": "index.js",
+  "dependencies": {
+    "@elastic/elasticsearch": "8.0",
+    "dotenv": "^17.2.0",
+    "express": "^5.1.0",
+    "mongoose": "^8.16.4",
+    "nodemon": "^3.1.10",
+    "winston": "^3.17.0",
+    "winston-elasticsearch": "^0.19.0"
+  },
+  "scripts": {
+    "start": "node index.js",
+    "dev": "nodemon index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "express",
+    "elasticsearch",
+    "mongoose"
+  ],
+  "author": "sumit s. save",
+  "license": "ISC"
+}
